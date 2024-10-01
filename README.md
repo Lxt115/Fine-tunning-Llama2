@@ -1,4 +1,5 @@
-# Fine-tunning-Llama2-on-text-summariaztion
+# Fine tunning Llama2 on summariaztion task
+
 Fine-tunning Llama2 on text summariaztion and test on gpt4 score
 
 "fine-tune.ipynb": Fine-tune Llama2 by lora with different datasets
